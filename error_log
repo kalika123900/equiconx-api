@@ -1,0 +1,132 @@
+[11-Apr-2020 09:54:32 UTC] PHP Warning:  phpinfo() has been disabled for security reasons in /home/pixagency/public_html/api/info.php on line 4
+[11-Apr-2020 09:54:32 UTC] PHP Warning:  phpinfo() has been disabled for security reasons in /home/pixagency/public_html/api/info.php on line 8
+[11-Apr-2020 13:16:25 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/pixagency/public_html/api/app/Http/Controllers/UserController.php on line 3
+[11-Apr-2020 13:16:25 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/pixagency/public_html/api/app/Http/Controllers/UserController.php on line 3
+[11-Apr-2020 13:16:25 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/pixagency/public_html/api/app/Http/Controllers/UserController.php on line 3
+[11-Apr-2020 13:19:40 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/pixagency/public_html/api/app/Http/Controllers/UserController.php on line 3
+[11-Apr-2020 13:19:40 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/pixagency/public_html/api/app/Http/Controllers/UserController.php on line 3
+[11-Apr-2020 13:19:40 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/pixagency/public_html/api/app/Http/Controllers/UserController.php on line 3
+[11-Apr-2020 13:22:40 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/pixagency/public_html/api/app/Http/Controllers/UserController.php on line 3
+[11-Apr-2020 13:22:40 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/pixagency/public_html/api/app/Http/Controllers/UserController.php on line 3
+[11-Apr-2020 13:22:40 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/pixagency/public_html/api/app/Http/Controllers/UserController.php on line 3
+[11-Apr-2020 13:31:31 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/pixagency/public_html/api/app/Http/Controllers/UserController.php on line 3
+[11-Apr-2020 13:31:31 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/pixagency/public_html/api/app/Http/Controllers/UserController.php on line 3
+[11-Apr-2020 13:31:31 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/pixagency/public_html/api/app/Http/Controllers/UserController.php on line 3
+[11-Apr-2020 13:33:37 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/pixagency/public_html/api/app/Http/Controllers/UserController.php on line 3
+[11-Apr-2020 13:33:37 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/pixagency/public_html/api/app/Http/Controllers/UserController.php on line 3
+[11-Apr-2020 13:33:37 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/pixagency/public_html/api/app/Http/Controllers/UserController.php on line 3
+[11-Apr-2020 13:44:44 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/pixagency/public_html/api/app/Http/Controllers/UserController.php on line 3
+[11-Apr-2020 13:44:44 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/pixagency/public_html/api/app/Http/Controllers/UserController.php on line 3
+[11-Apr-2020 13:44:44 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/pixagency/public_html/api/app/Http/Controllers/UserController.php on line 3
+[11-Apr-2020 14:12:23 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/pixagency/public_html/api/app/Http/Controllers/UserController.php on line 3
+[11-Apr-2020 14:12:23 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/pixagency/public_html/api/app/Http/Controllers/UserController.php on line 3
+[11-Apr-2020 14:12:23 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/pixagency/public_html/api/app/Http/Controllers/UserController.php on line 3
+[12-Apr-2020 06:13:18 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/pixagency/public_html/api/app/Http/Controllers/UserController.php on line 3
+[12-Apr-2020 06:13:18 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/pixagency/public_html/api/app/Http/Controllers/UserController.php on line 3
+[12-Apr-2020 06:13:20 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/pixagency/public_html/api/app/Http/Controllers/UserController.php on line 3
+[12-Apr-2020 06:13:32 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/pixagency/public_html/api/app/Http/Controllers/UserController.php on line 3
+[12-Apr-2020 06:13:33 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/pixagency/public_html/api/app/Http/Controllers/UserController.php on line 3
+[12-Apr-2020 06:13:33 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/pixagency/public_html/api/app/Http/Controllers/UserController.php on line 3
+[16-Apr-2020 18:58:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/pixagency/public_html/api/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/pixagency/public_html/api/index.php on line 13
+[16-Apr-2020 18:58:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/pixagency/public_html/api/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/pixagency/public_html/api/index.php on line 13
+[16-Apr-2020 18:59:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/pixagency/public_html/api/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pixagency/public_html/api/index.php on line 15
+[16-Apr-2020 18:59:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/pixagency/public_html/api/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pixagency/public_html/api/index.php on line 15
+[16-Apr-2020 18:59:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/pixagency/public_html/api/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pixagency/public_html/api/index.php on line 15
+[16-Apr-2020 18:59:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/pixagency/public_html/api/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pixagency/public_html/api/index.php on line 15
+[16-Apr-2020 19:00:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home/pixagency/public_html/api/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/pixagency/public_html/api/index.php on line 15
+[22-Apr-2020 18:22:06 UTC] Stripe Notice: Undefined property of Stripe\Account instance: verification
+[25-Apr-2020 20:43:46 UTC] PHP Warning:  POST Content-Length of 16866464 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[26-Apr-2020 19:02:29 UTC] PHP Warning:  POST Content-Length of 99039193 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Apr-2020 14:15:54 UTC] PHP Warning:  POST Content-Length of 99039193 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[05-May-2020 01:29:35 UTC] PHP Warning:  POST Content-Length of 14181817 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[09-May-2020 00:12:11 UTC] PHP Warning:  POST Content-Length of 12745913 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-May-2020 16:44:47 UTC] PHP Warning:  POST Content-Length of 21365079 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-May-2020 18:53:40 UTC] PHP Warning:  POST Content-Length of 9965279 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-May-2020 18:55:09 UTC] PHP Warning:  POST Content-Length of 22132032 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-May-2020 19:49:07 UTC] PHP Warning:  POST Content-Length of 19017148 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[31-May-2020 09:02:23 UTC] PHP Warning:  POST Content-Length of 16804770 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[03-Jun-2020 11:37:09 UTC] PHP Warning:  POST Content-Length of 14446353 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[05-Jun-2020 22:01:14 UTC] PHP Warning:  POST Content-Length of 17228947 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[05-Jun-2020 22:04:34 UTC] PHP Warning:  POST Content-Length of 10296383 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[10-Jun-2020 05:50:35 UTC] PHP Warning:  POST Content-Length of 29296599 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Aug-2020 14:36:53 UTC] PHP Warning:  POST Content-Length of 8609680 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Aug-2020 08:26:11 UTC] PHP Fatal error:  Allowed memory size of 2147483648 bytes exhausted (tried to allocate 2132807680 bytes) in /home/pixagency/public_html/equiconxapi/app/Http/Controllers/UserController.php on line 656
+[29-Aug-2020 08:26:11 UTC] PHP Fatal error:  Allowed memory size of 2147483648 bytes exhausted (tried to allocate 1179648 bytes) in /home/pixagency/public_html/equiconxapi/vendor/filp/whoops/src/Whoops/Run.php on line 55
+[09-Oct-2020 09:43:49 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/gy58fdp1axyy/public_html/api/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[25-Dec-2020 13:05:00 UTC] PHP Warning:  Uncaught ErrorException: require(../../../vendor/twitter/autoload.php): failed to open stream: No such file or directory in /home/gy58fdp1axyy/public_html/api/app/Http/Controllers/PostController.php:4
+Stack trace:
+#0 /home/gy58fdp1axyy/public_html/api/app/Http/Controllers/PostController.php(4): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(../../....', '/home/gy58fdp1a...', 4, Array)
+#1 /home/gy58fdp1axyy/public_html/api/app/Http/Controllers/PostController.php(4): require()
+#2 /home/gy58fdp1axyy/public_html/api/vendor/composer/ClassLoader.php(444): include('/home/gy58fdp1a...')
+#3 /home/gy58fdp1axyy/public_html/api/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/gy58fdp1a...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#5 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#6 /home/gy58fdp1axyy/public_html/api/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__c in /home/gy58fdp1axyy/public_html/api/app/Http/Controllers/PostController.php on line 4
+[25-Dec-2020 13:05:00 UTC] PHP Fatal error:  main(): Failed opening required '../../../vendor/twitter/autoload.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/gy58fdp1axyy/public_html/api/app/Http/Controllers/PostController.php on line 4
+[29-Dec-2020 07:31:37 UTC] PHP Fatal error:  Uncaught Exception: DateTimeZone::__construct(): Unknown or bad timezone (india/kolkata) in /home/gy58fdp1axyy/public_html/api/test.php:3
+Stack trace:
+#0 /home/gy58fdp1axyy/public_html/api/test.php(3): DateTimeZone->__construct('india/kolkata')
+#1 {main}
+  thrown in /home/gy58fdp1axyy/public_html/api/test.php on line 3
+[29-Dec-2020 07:32:10 UTC] PHP Fatal error:  Uncaught Exception: DateTimeZone::__construct(): Unknown or bad timezone (india/kolkata) in /home/gy58fdp1axyy/public_html/api/test.php:3
+Stack trace:
+#0 /home/gy58fdp1axyy/public_html/api/test.php(3): DateTimeZone->__construct('india/kolkata')
+#1 {main}
+  thrown in /home/gy58fdp1axyy/public_html/api/test.php on line 3
+[29-Dec-2020 07:32:12 UTC] PHP Fatal error:  Uncaught Exception: DateTimeZone::__construct(): Unknown or bad timezone (india/kolkata) in /home/gy58fdp1axyy/public_html/api/test.php:3
+Stack trace:
+#0 /home/gy58fdp1axyy/public_html/api/test.php(3): DateTimeZone->__construct('india/kolkata')
+#1 {main}
+  thrown in /home/gy58fdp1axyy/public_html/api/test.php on line 3
+[29-Dec-2020 07:52:05 UTC] PHP Fatal error:  Uncaught TypeError: DateTime::__construct() expects parameter 2 to be DateTimeZone, string given in /home/gy58fdp1axyy/public_html/api/test.php:8
+Stack trace:
+#0 /home/gy58fdp1axyy/public_html/api/test.php(8): DateTime->__construct('2020-12-29 00:0...', '-5:30')
+#1 {main}
+  thrown in /home/gy58fdp1axyy/public_html/api/test.php on line 8
+[30-Dec-2020 09:55:40 UTC] PHP Warning:  Uncaught ErrorException: require(/home/gy58fdp1axyy/public_html/api/vendor/phpmailer/PHPMailer-master/PHPMailer.php): failed to open stream: No such file or directory in /home/gy58fdp1axyy/public_html/api/app/Http/Controllers/UserController.php:7
+Stack trace:
+#0 /home/gy58fdp1axyy/public_html/api/app/Http/Controllers/UserController.php(7): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'require(/home/g...', '/home/gy58fdp1a...', 7, Array)
+#1 /home/gy58fdp1axyy/public_html/api/app/Http/Controllers/UserController.php(7): require()
+#2 /home/gy58fdp1axyy/public_html/api/vendor/composer/ClassLoader.php(444): include('/home/gy58fdp1a...')
+#3 /home/gy58fdp1axyy/public_html/api/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/gy58fdp1a...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Http\\Contro...')
+#5 [internal function]: spl_autoload_call('App\\Http\\Contro...')
+#6 /home/gy58fdp1axyy/public_html/api/vendor/laravel/framework/src/Illuminate/Cont in /home/gy58fdp1axyy/public_html/api/app/Http/Controllers/UserController.php on line 7
+[30-Dec-2020 09:55:41 UTC] PHP Fatal error:  main(): Failed opening required '/home/gy58fdp1axyy/public_html/api/vendor/phpmailer/PHPMailer-master/PHPMailer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/gy58fdp1axyy/public_html/api/app/Http/Controllers/UserController.php on line 7
+[30-Dec-2020 09:58:21 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home/gy58fdp1axyy/public_html/api/vendor/phpmailer/PHPMailer-master/src/PHPMailer.php on line 24
+[30-Dec-2020 04:25:40 America/Phoenix] PHP Notice:  Undefined index: OS in /home/gy58fdp1axyy/public_html/api/mail_test.php on line 3525
+[30-Dec-2020 04:26:41 America/Phoenix] PHP Notice:  Undefined index: OS in /home/gy58fdp1axyy/public_html/api/mail_test.php on line 3525
+[30-Dec-2020 04:27:30 America/Phoenix] PHP Notice:  Undefined index: OS in /home/gy58fdp1axyy/public_html/api/mail_test.php on line 3525
+[30-Dec-2020 04:55:51 America/Phoenix] PHP Notice:  Undefined index: OS in /home/gy58fdp1axyy/public_html/api/mail_test.php on line 3525
+[30-Dec-2020 12:12:04 UTC] PHP Notice:  Undefined variable: name in /home/gy58fdp1axyy/public_html/api/test.php on line 10
+[30-Dec-2020 12:12:04 UTC] PHP Notice:  Undefined variable: email in /home/gy58fdp1axyy/public_html/api/test.php on line 10
+[30-Dec-2020 12:22:48 UTC] PHP Notice:  Undefined variable: name in /home/gy58fdp1axyy/public_html/api/test.php on line 10
+[30-Dec-2020 12:22:48 UTC] PHP Notice:  Undefined variable: email in /home/gy58fdp1axyy/public_html/api/test.php on line 10
+[30-Dec-2020 12:38:27 UTC] PHP Notice:  Undefined variable: name in /home/gy58fdp1axyy/public_html/api/test.php on line 10
+[30-Dec-2020 12:38:27 UTC] PHP Notice:  Undefined variable: email in /home/gy58fdp1axyy/public_html/api/test.php on line 10
+[30-Dec-2020 22:04:37 America/Phoenix] PHP Notice:  Undefined index: OS in /home/gy58fdp1axyy/public_html/api/mail_test.php on line 3525
+[31-Dec-2020 22:01:51 America/Phoenix] PHP Notice:  Undefined index: OS in /home/gy58fdp1axyy/public_html/api/mail_test.php on line 3525
+[01-Jan-2021 21:26:39 America/Phoenix] PHP Notice:  Undefined index: OS in /home/gy58fdp1axyy/public_html/api/mail_test.php on line 3525
+[03-Jan-2021 20:58:02 America/Phoenix] PHP Notice:  Undefined index: OS in /home/gy58fdp1axyy/public_html/api/mail_test.php on line 3525
+[13-Jan-2021 08:45:37 UTC] PHP Fatal error:  Cannot declare class App\Models\Faqsubject, because the name is already in use in /home/gy58fdp1axyy/public_html/api/app/Models/Faq.php on line 0
